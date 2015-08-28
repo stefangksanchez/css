@@ -1,0 +1,16 @@
+
+.box
+{
+    background: #e4e4e4 url('img/pg.png') no-repeat scroll center center;
+}
+
+.scroll
+{
+    background-attachment: fixed;
+}
+
+.local
+{
+    background-attachment: local;
+}
+
